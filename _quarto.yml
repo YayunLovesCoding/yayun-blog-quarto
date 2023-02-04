@@ -6,7 +6,7 @@ website:
   title: "Yayun Jin"
   navbar:
     right:
-      - index.qmd
+      - about.qmd
       - diary.qmd
       - icon: github
         href: https://github.com/YayunLovesCoding
