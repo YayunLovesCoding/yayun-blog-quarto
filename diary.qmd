@@ -10,3 +10,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+> 感谢阅读。如果你想要接收文章更新提醒，请在[这个Google Form](https://forms.gle/SH6VzFDHZa8udE1V7)里填写信息。
+
+------------------------------------------------------------------------

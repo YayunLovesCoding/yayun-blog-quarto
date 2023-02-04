@@ -3,7 +3,6 @@ title: "旅行的意义"
 author: "亚云"
 date: "2023-02-01"
 categories: [生活, 意义]
-image: "image.jpg"
 ---
 
 旅行的意义，或者说我对于旅行的看法是一直在变化的。
