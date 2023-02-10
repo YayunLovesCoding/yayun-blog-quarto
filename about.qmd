@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-My name is Yayun Jin, and I\'m a writer and machine learning engineer. Growing up in China, I moved to the U.S. to pursue my academic interests, and now live in the Bay Area.
+My name is Yayun Jin, and I'm a writer and machine learning engineer. Growing up in China, I moved to the U.S. to pursue my academic interests, and now live in the Bay Area.
 
 Here are my beliefs and values (and my interpretations): 
 
@@ -30,4 +30,4 @@ What keeps me busy these days is:
 
 -   Coaching people to achieve greater fulfillment in their lives.
 
--   Blogging about my thoughts and the \"aha\" moments in my life.
+-   Blogging about my thoughts and the "aha" moments in my life.

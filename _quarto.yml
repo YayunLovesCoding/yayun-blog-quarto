@@ -10,10 +10,14 @@ website:
       - diary.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/yayunjin/
+  page-footer:
+    center: |
+      <span class="container"><strong>© Yayun Jin 2022 - 2023</strong></span>
+    
+    background: "#004E4F"
 format:
   html:
     theme: cosmo
     css: styles.css
 
 editor: visual
-
