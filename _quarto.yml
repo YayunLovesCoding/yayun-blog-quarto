@@ -8,8 +8,6 @@ website:
     right:
       - about.qmd
       - diary.qmd
-      - icon: github
-        href: https://github.com/YayunLovesCoding
       - icon: linkedin
         href: https://www.linkedin.com/in/yayunjin/
 format:
