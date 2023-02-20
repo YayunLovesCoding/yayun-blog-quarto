@@ -8,6 +8,7 @@ website:
     right:
       - about.qmd
       - diary.qmd
+      - recommendation.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/yayunjin/
   page-footer:
